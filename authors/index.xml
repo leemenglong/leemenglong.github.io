@@ -6,7 +6,16 @@
     <description>Recent content in Authors on Shen-Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://leemenglong.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Feb 2023 21:29:20 +0800</lastBuildDate><atom:link href="https://leemenglong.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xiuxia Wang</title>
+      <link>https://leemenglong.github.io/authors/xiuxia-wang/</link>
+      <pubDate>Thu, 23 Feb 2023 21:29:20 +0800</pubDate>
+      
+      <guid>https://leemenglong.github.io/authors/xiuxia-wang/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>John Doe</title>
       <link>https://leemenglong.github.io/authors/john-doe/</link>
@@ -22,15 +31,6 @@
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
       <guid>https://leemenglong.github.io/authors/shen-group/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jane Doe</title>
-      <link>https://leemenglong.github.io/authors/jane-doe/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://leemenglong.github.io/authors/jane-doe/</guid>
       <description></description>
     </item>
     
